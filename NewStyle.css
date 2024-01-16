@@ -116,7 +116,7 @@ a{
     box-shadow: 0 0 2px var(--secondary-text-color);
 }
 .secondary-button:hover{
-    border-color:#2294ed ;
+    border-color:#0f74c1 ;
     color:#2294ed!important
 }
 header{
